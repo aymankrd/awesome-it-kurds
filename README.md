@@ -43,7 +43,7 @@ add other awesome Kurds, including you!
 - [Areyan](https://github.com/KUMachine)
 - [Ari Karim](https://twitter.com/Ari_Karim_)
 - [Arin Faraj](https://twitter.com/ArinFaraj)
-- [Ayman Sabri](https://twitter.com/krdayman)
+- [Ayman Sabri](https://instagram.com/aymankrd): Full stack web developer, HTML ,CSS ,Bootstrap ,Tailwand ,Javascript ,AJAX ,Jquery ,React ,PHP ,SQL ,API ,Python ,Android Studio ,Java ,XML, UI/UX Design
 - [Aza Kamala](https://twitter.com/AzaKamala)
 - [Azher Taimur](https://twitter.com/Freedom_Coder)
 - [Azhi Osman](https://github.com/Azhi-Othman)
@@ -117,7 +117,7 @@ add other awesome Kurds, including you!
 
 - [Akar Mohammed](https://github.com/AkarM13): Adobe XD, Figma
 - [Arkan A Ahmed](https://www.behance.net/arkan-a-ahmed): Adobe Illustrator, Adobe Photoshop, Adobe Xd, Figma
-- [Ayman Sabri](https://twitter.com/krdayman)
+- [Ayman Sabri](https://instagram.com/aymankrd): Full Android App UI/UX Design, WEB UI/UX Design, WEB/APP proposal Design
 - [Ahmed Safaa](https://www.linkedin.com/in/ahmed1safaa)
 - [Chenar Ismael ](https://github.com/TheChenar)
 - [Suvi Shahoyi](https://twitter.com/suuuvi99): Flutter, Dart, Java, C#, JavaScript, Figma, Adobe Xd
@@ -131,7 +131,7 @@ add other awesome Kurds, including you!
 ## Cybersecurity
 
 - [Adnan Anwar](https://twitter.com/AdanAnwar15)
-- [Ayman Sabri](https://twitter.com/krdayman)
+- [Ayman Sabri](https://instagram.com/aymankrd)
 - [Chenar Ismael](https://github.com/TheChenar)
 - [Sharo Karwan](https://www.linkedin.com/in/sharo-karwan-690b0576): Azure, Kaspersky, Acronis, Barracuda, Palo Alto
 - [Muhammed Naqshabandi](https://twitter.com/zertux6)
